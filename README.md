@@ -1,8 +1,9 @@
-# Module-3 Day-3 SEB
+# Module-3 Day-4 SEB
 ## AIM:
 To write a C program to accept N numbers and arrange them in an ascending order
 
 ## For example:
+<img width="525" height="182" alt="image" src="https://github.com/user-attachments/assets/ae0fac67-6218-4407-9e99-ac6f79630341" />
 
 ## Program:
 ```c
@@ -31,3 +32,4 @@ int main(){
 }
 ```
 ## Result:
+<img width="1055" height="180" alt="image" src="https://github.com/user-attachments/assets/fe482072-868e-4b78-b282-c69bc33fa477" />
